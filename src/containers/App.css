@@ -1,0 +1,12 @@
+
+
+@font-face {
+  font-family: 'Nerik-normal';
+  src:   url('Nerik-normal.ttf') format('truetype');
+}
+
+h1 {
+	font-family: "Nerik-normal";
+	font-size: 1000;
+	color: #6CC0A0;
+}
